@@ -1,0 +1,382 @@
+date,entity_id,brand,product_name,category,event_type,event_title,event_description,impact_direction,linked_marker_date,linked_marker_type,signal_story,priority
+2025-02-02,101,SoundWave,SoundPods X3,earbuds,launch_like,Variant Launch Buzz,New color/variant announcement,positive,2025-02-02,event,New color/variant announcement,medium
+2025-02-06,101,SoundWave,SoundPods X3,earbuds,stockout,Stock Availability Issue,Inventory shortage signal,negative,2025-02-06,event,Inventory shortage signal,high
+2025-02-27,101,SoundWave,SoundPods X3,earbuds,promo,Limited Time Promotion,Flash discount campaign,positive,2025-02-27,event,Flash discount campaign,medium
+2025-03-03,101,SoundWave,SoundPods X3,earbuds,stockout,Stock Availability Issue,Inventory shortage signal,negative,2025-03-03,event,Inventory shortage signal,high
+2025-03-09,101,SoundWave,SoundPods X3,earbuds,launch_like,Variant Launch Buzz,New color/variant announcement,positive,2025-03-09,event,New color/variant announcement,medium
+2025-03-13,101,SoundWave,SoundPods X3,earbuds,ad_burst,Major Ad Push,Paid campaign burst,positive,2025-03-13,event,Paid campaign burst,medium
+2025-01-25,102,EchoTech,EchoBeats Lite,earbuds,price_hike,Price Increase,List price increase,negative,2025-01-25,event,List price increase,high
+2025-02-08,102,EchoTech,EchoBeats Lite,earbuds,listing_update,Listing Refresh,Media and copy update,positive,2025-02-08,event,Media and copy update,medium
+2025-02-10,102,EchoTech,EchoBeats Lite,earbuds,ad_burst,Major Ad Push,Paid campaign burst,positive,2025-02-10,event,Paid campaign burst,medium
+2025-03-20,102,EchoTech,EchoBeats Lite,earbuds,stockout,Stock Availability Issue,Inventory shortage signal,negative,2025-03-20,event,Inventory shortage signal,medium
+2025-03-22,102,EchoTech,EchoBeats Lite,earbuds,price_hike,Price Increase,List price increase,negative,2025-03-22,event,List price increase,high
+2025-01-13,103,PureAudio,PureSound Elite,earbuds,promo,Limited Time Promotion,Flash discount campaign,positive,2025-01-13,event,Flash discount campaign,high
+2025-01-16,103,PureAudio,PureSound Elite,earbuds,listing_update,Listing Refresh,Media and copy update,positive,2025-01-16,event,Media and copy update,high
+2025-01-25,103,PureAudio,PureSound Elite,earbuds,promo,Limited Time Promotion,Flash discount campaign,positive,2025-01-25,event,Flash discount campaign,medium
+2025-02-24,103,PureAudio,PureSound Elite,earbuds,promo,Limited Time Promotion,Flash discount campaign,positive,2025-02-24,event,Flash discount campaign,medium
+2025-03-20,103,PureAudio,PureSound Elite,earbuds,ad_burst,Major Ad Push,Paid campaign burst,positive,2025-03-20,event,Paid campaign burst,medium
+2025-01-11,104,TechGear,TechBuds Pro,earbuds,stockout,Stock Availability Issue,Inventory shortage signal,negative,2025-01-11,event,Inventory shortage signal,high
+2025-02-08,104,TechGear,TechBuds Pro,earbuds,launch_like,Variant Launch Buzz,New color/variant announcement,positive,2025-02-08,event,New color/variant announcement,high
+2025-02-22,104,TechGear,TechBuds Pro,earbuds,promo,Limited Time Promotion,Flash discount campaign,positive,2025-02-22,event,Flash discount campaign,high
+2025-02-26,104,TechGear,TechBuds Pro,earbuds,launch_like,Variant Launch Buzz,New color/variant announcement,positive,2025-02-26,event,New color/variant announcement,high
+2025-03-03,104,TechGear,TechBuds Pro,earbuds,ad_burst,Major Ad Push,Paid campaign burst,positive,2025-03-03,event,Paid campaign burst,high
+2025-01-06,105,ZenAudio,ZenEar Flex,earbuds,stockout,Stock Availability Issue,Inventory shortage signal,negative,2025-01-06,event,Inventory shortage signal,high
+2025-02-11,105,ZenAudio,ZenEar Flex,earbuds,listing_update,Listing Refresh,Media and copy update,positive,2025-02-11,event,Media and copy update,high
+2025-02-26,105,ZenAudio,ZenEar Flex,earbuds,price_hike,Price Increase,List price increase,negative,2025-02-26,event,List price increase,high
+2025-03-03,105,ZenAudio,ZenEar Flex,earbuds,launch_like,Variant Launch Buzz,New color/variant announcement,positive,2025-03-03,event,New color/variant announcement,medium
+2025-03-10,105,ZenAudio,ZenEar Flex,earbuds,listing_update,Listing Refresh,Media and copy update,positive,2025-03-10,event,Media and copy update,medium
+2025-03-25,105,ZenAudio,ZenEar Flex,earbuds,listing_update,Listing Refresh,Media and copy update,positive,2025-03-25,event,Media and copy update,medium
+2025-01-15,201,NovaTech,NovaPhone S22,smartphones,listing_update,Listing Refresh,Media and copy update,positive,2025-01-15,event,Media and copy update,high
+2025-02-02,201,NovaTech,NovaPhone S22,smartphones,ad_burst,Major Ad Push,Paid campaign burst,positive,2025-02-02,event,Paid campaign burst,high
+2025-02-06,201,NovaTech,NovaPhone S22,smartphones,launch_like,Variant Launch Buzz,New color/variant announcement,positive,2025-02-06,event,New color/variant announcement,high
+2025-02-16,201,NovaTech,NovaPhone S22,smartphones,promo,Limited Time Promotion,Flash discount campaign,positive,2025-02-16,event,Flash discount campaign,high
+2025-03-13,201,NovaTech,NovaPhone S22,smartphones,stockout,Stock Availability Issue,Inventory shortage signal,negative,2025-03-13,event,Inventory shortage signal,high
+2025-01-05,202,MaxMobile,BudgetMax 5G,smartphones,ad_burst,Major Ad Push,Paid campaign burst,positive,2025-01-05,event,Paid campaign burst,medium
+2025-01-09,202,MaxMobile,BudgetMax 5G,smartphones,listing_update,Listing Refresh,Media and copy update,positive,2025-01-09,event,Media and copy update,high
+2025-01-26,202,MaxMobile,BudgetMax 5G,smartphones,promo,Limited Time Promotion,Flash discount campaign,positive,2025-01-26,event,Flash discount campaign,high
+2025-02-12,202,MaxMobile,BudgetMax 5G,smartphones,ad_burst,Major Ad Push,Paid campaign burst,positive,2025-02-12,event,Paid campaign burst,high
+2025-03-27,202,MaxMobile,BudgetMax 5G,smartphones,price_hike,Price Increase,List price increase,negative,2025-03-27,event,List price increase,medium
+2025-01-21,203,CoreMobile,MidCore X8,smartphones,stockout,Stock Availability Issue,Inventory shortage signal,negative,2025-01-21,event,Inventory shortage signal,medium
+2025-01-31,203,CoreMobile,MidCore X8,smartphones,price_hike,Price Increase,List price increase,negative,2025-01-31,event,List price increase,high
+2025-02-15,203,CoreMobile,MidCore X8,smartphones,ad_burst,Major Ad Push,Paid campaign burst,positive,2025-02-15,event,Paid campaign burst,medium
+2025-02-27,203,CoreMobile,MidCore X8,smartphones,price_hike,Price Increase,List price increase,negative,2025-02-27,event,List price increase,high
+2025-02-28,203,CoreMobile,MidCore X8,smartphones,stockout,Stock Availability Issue,Inventory shortage signal,negative,2025-02-28,event,Inventory shortage signal,high
+2025-03-14,203,CoreMobile,MidCore X8,smartphones,promo,Limited Time Promotion,Flash discount campaign,positive,2025-03-14,event,Flash discount campaign,medium
+2025-02-23,204,LegacyCo,LegacyPro 11,smartphones,stockout,Stock Availability Issue,Inventory shortage signal,negative,2025-02-23,event,Inventory shortage signal,medium
+2025-03-07,204,LegacyCo,LegacyPro 11,smartphones,promo,Limited Time Promotion,Flash discount campaign,positive,2025-03-07,event,Flash discount campaign,high
+2025-03-14,204,LegacyCo,LegacyPro 11,smartphones,launch_like,Variant Launch Buzz,New color/variant announcement,positive,2025-03-14,event,New color/variant announcement,high
+2025-03-16,204,LegacyCo,LegacyPro 11,smartphones,stockout,Stock Availability Issue,Inventory shortage signal,negative,2025-03-16,event,Inventory shortage signal,high
+2025-03-22,204,LegacyCo,LegacyPro 11,smartphones,promo,Limited Time Promotion,Flash discount campaign,positive,2025-03-22,event,Flash discount campaign,medium
+2025-01-08,205,SwiftTech,SwiftPhone Z1,smartphones,promo,Limited Time Promotion,Flash discount campaign,positive,2025-01-08,event,Flash discount campaign,high
+2025-01-10,205,SwiftTech,SwiftPhone Z1,smartphones,listing_update,Listing Refresh,Media and copy update,positive,2025-01-10,event,Media and copy update,medium
+2025-01-16,205,SwiftTech,SwiftPhone Z1,smartphones,promo,Limited Time Promotion,Flash discount campaign,positive,2025-01-16,event,Flash discount campaign,high
+2025-01-31,205,SwiftTech,SwiftPhone Z1,smartphones,promo,Limited Time Promotion,Flash discount campaign,positive,2025-01-31,event,Flash discount campaign,high
+2025-02-19,205,SwiftTech,SwiftPhone Z1,smartphones,promo,Limited Time Promotion,Flash discount campaign,positive,2025-02-19,event,Flash discount campaign,high
+2025-03-10,205,SwiftTech,SwiftPhone Z1,smartphones,promo,Limited Time Promotion,Flash discount campaign,positive,2025-03-10,event,Flash discount campaign,high
+2025-01-11,301,FitTech,FitPulse Watch,smartwatches,stockout,Stock Availability Issue,Inventory shortage signal,negative,2025-01-11,event,Inventory shortage signal,medium
+2025-01-20,301,FitTech,FitPulse Watch,smartwatches,price_hike,Price Increase,List price increase,negative,2025-01-20,event,List price increase,high
+2025-02-06,301,FitTech,FitPulse Watch,smartwatches,stockout,Stock Availability Issue,Inventory shortage signal,negative,2025-02-06,event,Inventory shortage signal,high
+2025-02-25,301,FitTech,FitPulse Watch,smartwatches,promo,Limited Time Promotion,Flash discount campaign,positive,2025-02-25,event,Flash discount campaign,medium
+2025-01-05,302,LuxBrand,LuxTime Pro,smartwatches,promo,Limited Time Promotion,Flash discount campaign,positive,2025-01-05,event,Flash discount campaign,medium
+2025-02-02,302,LuxBrand,LuxTime Pro,smartwatches,launch_like,Variant Launch Buzz,New color/variant announcement,positive,2025-02-02,event,New color/variant announcement,medium
+2025-02-13,302,LuxBrand,LuxTime Pro,smartwatches,listing_update,Listing Refresh,Media and copy update,positive,2025-02-13,event,Media and copy update,medium
+2025-03-03,302,LuxBrand,LuxTime Pro,smartwatches,listing_update,Listing Refresh,Media and copy update,positive,2025-03-03,event,Media and copy update,medium
+2025-01-05,303,GearBudget,BudgetWatch G5,smartwatches,stockout,Stock Availability Issue,Inventory shortage signal,negative,2025-01-05,event,Inventory shortage signal,high
+2025-01-23,303,GearBudget,BudgetWatch G5,smartwatches,ad_burst,Major Ad Push,Paid campaign burst,positive,2025-01-23,event,Paid campaign burst,high
+2025-02-28,303,GearBudget,BudgetWatch G5,smartwatches,stockout,Stock Availability Issue,Inventory shortage signal,negative,2025-02-28,event,Inventory shortage signal,high
+2025-03-15,303,GearBudget,BudgetWatch G5,smartwatches,ad_burst,Major Ad Push,Paid campaign burst,positive,2025-03-15,event,Paid campaign burst,high
+2025-01-15,304,ActiveTech,ActiveBand X2,smartwatches,promo,Limited Time Promotion,Flash discount campaign,positive,2025-01-15,event,Flash discount campaign,medium
+2025-01-23,304,ActiveTech,ActiveBand X2,smartwatches,price_hike,Price Increase,List price increase,negative,2025-01-23,event,List price increase,high
+2025-02-03,304,ActiveTech,ActiveBand X2,smartwatches,stockout,Stock Availability Issue,Inventory shortage signal,negative,2025-02-03,event,Inventory shortage signal,medium
+2025-02-13,304,ActiveTech,ActiveBand X2,smartwatches,listing_update,Listing Refresh,Media and copy update,positive,2025-02-13,event,Media and copy update,medium
+2025-03-01,304,ActiveTech,ActiveBand X2,smartwatches,stockout,Stock Availability Issue,Inventory shortage signal,negative,2025-03-01,event,Inventory shortage signal,medium
+2025-01-19,305,RetroGear,RetroWatch Classic,smartwatches,stockout,Stock Availability Issue,Inventory shortage signal,negative,2025-01-19,event,Inventory shortage signal,high
+2025-01-24,305,RetroGear,RetroWatch Classic,smartwatches,launch_like,Variant Launch Buzz,New color/variant announcement,positive,2025-01-24,event,New color/variant announcement,high
+2025-01-28,305,RetroGear,RetroWatch Classic,smartwatches,promo,Limited Time Promotion,Flash discount campaign,positive,2025-01-28,event,Flash discount campaign,medium
+2025-02-11,305,RetroGear,RetroWatch Classic,smartwatches,price_hike,Price Increase,List price increase,negative,2025-02-11,event,List price increase,high
+2025-01-12,401,BoomAudio,BoomBox Mini,bluetooth_speakers,price_hike,Price Increase,List price increase,negative,2025-01-12,event,List price increase,medium
+2025-01-20,401,BoomAudio,BoomBox Mini,bluetooth_speakers,launch_like,Variant Launch Buzz,New color/variant announcement,positive,2025-01-20,event,New color/variant announcement,medium
+2025-02-06,401,BoomAudio,BoomBox Mini,bluetooth_speakers,price_hike,Price Increase,List price increase,negative,2025-02-06,event,List price increase,high
+2025-02-15,401,BoomAudio,BoomBox Mini,bluetooth_speakers,ad_burst,Major Ad Push,Paid campaign burst,positive,2025-02-15,event,Paid campaign burst,high
+2025-03-13,401,BoomAudio,BoomBox Mini,bluetooth_speakers,promo,Limited Time Promotion,Flash discount campaign,positive,2025-03-13,event,Flash discount campaign,high
+2025-01-06,402,TinyTech,TinySound S1,bluetooth_speakers,ad_burst,Major Ad Push,Paid campaign burst,positive,2025-01-06,event,Paid campaign burst,medium
+2025-01-20,402,TinyTech,TinySound S1,bluetooth_speakers,launch_like,Variant Launch Buzz,New color/variant announcement,positive,2025-01-20,event,New color/variant announcement,high
+2025-01-24,402,TinyTech,TinySound S1,bluetooth_speakers,stockout,Stock Availability Issue,Inventory shortage signal,negative,2025-01-24,event,Inventory shortage signal,medium
+2025-02-13,402,TinyTech,TinySound S1,bluetooth_speakers,price_hike,Price Increase,List price increase,negative,2025-02-13,event,List price increase,medium
+2025-02-14,402,TinyTech,TinySound S1,bluetooth_speakers,ad_burst,Major Ad Push,Paid campaign burst,positive,2025-02-14,event,Paid campaign burst,medium
+2025-03-14,402,TinyTech,TinySound S1,bluetooth_speakers,promo,Limited Time Promotion,Flash discount campaign,positive,2025-03-14,event,Flash discount campaign,medium
+2025-01-18,403,StudioAudio,StudioBeam Pro,bluetooth_speakers,price_hike,Price Increase,List price increase,negative,2025-01-18,event,List price increase,medium
+2025-02-03,403,StudioAudio,StudioBeam Pro,bluetooth_speakers,promo,Limited Time Promotion,Flash discount campaign,positive,2025-02-03,event,Flash discount campaign,high
+2025-02-12,403,StudioAudio,StudioBeam Pro,bluetooth_speakers,promo,Limited Time Promotion,Flash discount campaign,positive,2025-02-12,event,Flash discount campaign,high
+2025-02-14,403,StudioAudio,StudioBeam Pro,bluetooth_speakers,price_hike,Price Increase,List price increase,negative,2025-02-14,event,List price increase,medium
+2025-03-11,403,StudioAudio,StudioBeam Pro,bluetooth_speakers,price_hike,Price Increase,List price increase,negative,2025-03-11,event,List price increase,medium
+2025-03-24,403,StudioAudio,StudioBeam Pro,bluetooth_speakers,stockout,Stock Availability Issue,Inventory shortage signal,negative,2025-03-24,event,Inventory shortage signal,high
+2025-02-04,501,PowerTech,PowerMax 20K,power_banks,promo,Limited Time Promotion,Flash discount campaign,positive,2025-02-04,event,Flash discount campaign,high
+2025-02-21,501,PowerTech,PowerMax 20K,power_banks,listing_update,Listing Refresh,Media and copy update,positive,2025-02-21,event,Media and copy update,high
+2025-03-10,501,PowerTech,PowerMax 20K,power_banks,launch_like,Variant Launch Buzz,New color/variant announcement,positive,2025-03-10,event,New color/variant announcement,high
+2025-03-14,501,PowerTech,PowerMax 20K,power_banks,ad_burst,Major Ad Push,Paid campaign burst,positive,2025-03-14,event,Paid campaign burst,medium
+2025-03-18,501,PowerTech,PowerMax 20K,power_banks,price_hike,Price Increase,List price increase,negative,2025-03-18,event,List price increase,medium
+2025-03-19,501,PowerTech,PowerMax 20K,power_banks,price_hike,Price Increase,List price increase,negative,2025-03-19,event,List price increase,high
+2025-01-15,502,SlimPower,SlimCharge Lite,power_banks,listing_update,Listing Refresh,Media and copy update,positive,2025-01-15,event,Media and copy update,medium
+2025-02-16,502,SlimPower,SlimCharge Lite,power_banks,listing_update,Listing Refresh,Media and copy update,positive,2025-02-16,event,Media and copy update,medium
+2025-02-19,502,SlimPower,SlimCharge Lite,power_banks,launch_like,Variant Launch Buzz,New color/variant announcement,positive,2025-02-19,event,New color/variant announcement,high
+2025-02-26,502,SlimPower,SlimCharge Lite,power_banks,launch_like,Variant Launch Buzz,New color/variant announcement,positive,2025-02-26,event,New color/variant announcement,high
+2025-03-01,502,SlimPower,SlimCharge Lite,power_banks,launch_like,Variant Launch Buzz,New color/variant announcement,positive,2025-03-01,event,New color/variant announcement,high
+2025-03-21,502,SlimPower,SlimCharge Lite,power_banks,ad_burst,Major Ad Push,Paid campaign burst,positive,2025-03-21,event,Paid campaign burst,high
+2025-01-13,503,LuxAudio,AirLux Elite,earbuds,ad_burst,Major Ad Push,Paid campaign burst,positive,2025-01-13,event,Paid campaign burst,medium
+2025-02-08,503,LuxAudio,AirLux Elite,earbuds,stockout,Stock Availability Issue,Inventory shortage signal,negative,2025-02-08,event,Inventory shortage signal,medium
+2025-02-15,503,LuxAudio,AirLux Elite,earbuds,stockout,Stock Availability Issue,Inventory shortage signal,negative,2025-02-15,event,Inventory shortage signal,high
+2025-02-20,503,LuxAudio,AirLux Elite,earbuds,price_hike,Price Increase,List price increase,negative,2025-02-20,event,List price increase,high
+2025-03-07,503,LuxAudio,AirLux Elite,earbuds,ad_burst,Major Ad Push,Paid campaign burst,positive,2025-03-07,event,Paid campaign burst,high
+2025-03-16,503,LuxAudio,AirLux Elite,earbuds,launch_like,Variant Launch Buzz,New color/variant announcement,positive,2025-03-16,event,New color/variant announcement,medium
+2025-02-07,504,FlashGear,FlashBeats X1,earbuds,promo,Limited Time Promotion,Flash discount campaign,positive,2025-02-07,event,Flash discount campaign,high
+2025-02-11,504,FlashGear,FlashBeats X1,earbuds,price_hike,Price Increase,List price increase,negative,2025-02-11,event,List price increase,high
+2025-02-19,504,FlashGear,FlashBeats X1,earbuds,promo,Limited Time Promotion,Flash discount campaign,positive,2025-02-19,event,Flash discount campaign,high
+2025-03-08,504,FlashGear,FlashBeats X1,earbuds,promo,Limited Time Promotion,Flash discount campaign,positive,2025-03-08,event,Flash discount campaign,high
+2025-03-10,504,FlashGear,FlashBeats X1,earbuds,launch_like,Variant Launch Buzz,New color/variant announcement,positive,2025-03-10,event,New color/variant announcement,medium
+2025-03-13,504,FlashGear,FlashBeats X1,earbuds,stockout,Stock Availability Issue,Inventory shortage signal,negative,2025-03-13,event,Inventory shortage signal,high
+2025-01-18,505,ClearWave,ClearPod Slim,earbuds,listing_update,Listing Refresh,Media and copy update,positive,2025-01-18,event,Media and copy update,high
+2025-02-09,505,ClearWave,ClearPod Slim,earbuds,launch_like,Variant Launch Buzz,New color/variant announcement,positive,2025-02-09,event,New color/variant announcement,high
+2025-02-26,505,ClearWave,ClearPod Slim,earbuds,price_hike,Price Increase,List price increase,negative,2025-02-26,event,List price increase,high
+2025-03-14,505,ClearWave,ClearPod Slim,earbuds,ad_burst,Major Ad Push,Paid campaign burst,positive,2025-03-14,event,Paid campaign burst,high
+2025-03-22,505,ClearWave,ClearPod Slim,earbuds,price_hike,Price Increase,List price increase,negative,2025-03-22,event,List price increase,high
+2025-01-11,506,HyperTech,HyperPhone Pro,smartphones,promo,Limited Time Promotion,Flash discount campaign,positive,2025-01-11,event,Flash discount campaign,medium
+2025-02-18,506,HyperTech,HyperPhone Pro,smartphones,promo,Limited Time Promotion,Flash discount campaign,positive,2025-02-18,event,Flash discount campaign,medium
+2025-02-25,506,HyperTech,HyperPhone Pro,smartphones,stockout,Stock Availability Issue,Inventory shortage signal,negative,2025-02-25,event,Inventory shortage signal,high
+2025-02-26,506,HyperTech,HyperPhone Pro,smartphones,listing_update,Listing Refresh,Media and copy update,positive,2025-02-26,event,Media and copy update,medium
+2025-03-23,506,HyperTech,HyperPhone Pro,smartphones,stockout,Stock Availability Issue,Inventory shortage signal,negative,2025-03-23,event,Inventory shortage signal,medium
+2025-01-24,507,ValueMobile,ValueMax 5G,smartphones,price_hike,Price Increase,List price increase,negative,2025-01-24,event,List price increase,medium
+2025-01-27,507,ValueMobile,ValueMax 5G,smartphones,launch_like,Variant Launch Buzz,New color/variant announcement,positive,2025-01-27,event,New color/variant announcement,high
+2025-01-28,507,ValueMobile,ValueMax 5G,smartphones,ad_burst,Major Ad Push,Paid campaign burst,positive,2025-01-28,event,Paid campaign burst,medium
+2025-02-16,507,ValueMobile,ValueMax 5G,smartphones,stockout,Stock Availability Issue,Inventory shortage signal,negative,2025-02-16,event,Inventory shortage signal,high
+2025-03-01,507,ValueMobile,ValueMax 5G,smartphones,listing_update,Listing Refresh,Media and copy update,positive,2025-03-01,event,Media and copy update,medium
+2025-03-09,507,ValueMobile,ValueMax 5G,smartphones,launch_like,Variant Launch Buzz,New color/variant announcement,positive,2025-03-09,event,New color/variant announcement,high
+2025-01-13,508,MegaMobile,MegaCore S9,smartphones,listing_update,Listing Refresh,Media and copy update,positive,2025-01-13,event,Media and copy update,medium
+2025-01-25,508,MegaMobile,MegaCore S9,smartphones,launch_like,Variant Launch Buzz,New color/variant announcement,positive,2025-01-25,event,New color/variant announcement,high
+2025-02-02,508,MegaMobile,MegaCore S9,smartphones,ad_burst,Major Ad Push,Paid campaign burst,positive,2025-02-02,event,Paid campaign burst,high
+2025-03-20,508,MegaMobile,MegaCore S9,smartphones,launch_like,Variant Launch Buzz,New color/variant announcement,positive,2025-03-20,event,New color/variant announcement,high
+2025-01-12,509,ClassicCo,ClassicPro 12,smartphones,price_hike,Price Increase,List price increase,negative,2025-01-12,event,List price increase,medium
+2025-02-04,509,ClassicCo,ClassicPro 12,smartphones,stockout,Stock Availability Issue,Inventory shortage signal,negative,2025-02-04,event,Inventory shortage signal,medium
+2025-02-10,509,ClassicCo,ClassicPro 12,smartphones,ad_burst,Major Ad Push,Paid campaign burst,positive,2025-02-10,event,Paid campaign burst,medium
+2025-03-24,509,ClassicCo,ClassicPro 12,smartphones,launch_like,Variant Launch Buzz,New color/variant announcement,positive,2025-03-24,event,New color/variant announcement,medium
+2025-01-27,510,SprintTech,SprintPhone Z2,smartphones,ad_burst,Major Ad Push,Paid campaign burst,positive,2025-01-27,event,Paid campaign burst,high
+2025-02-16,510,SprintTech,SprintPhone Z2,smartphones,stockout,Stock Availability Issue,Inventory shortage signal,negative,2025-02-16,event,Inventory shortage signal,high
+2025-02-20,510,SprintTech,SprintPhone Z2,smartphones,ad_burst,Major Ad Push,Paid campaign burst,positive,2025-02-20,event,Paid campaign burst,high
+2025-02-21,510,SprintTech,SprintPhone Z2,smartphones,price_hike,Price Increase,List price increase,negative,2025-02-21,event,List price increase,medium
+2025-03-07,510,SprintTech,SprintPhone Z2,smartphones,promo,Limited Time Promotion,Flash discount campaign,positive,2025-03-07,event,Flash discount campaign,high
+2025-01-13,511,PulseTech,PulseWatch Pro,smartwatches,price_hike,Price Increase,List price increase,negative,2025-01-13,event,List price increase,high
+2025-01-18,511,PulseTech,PulseWatch Pro,smartwatches,ad_burst,Major Ad Push,Paid campaign burst,positive,2025-01-18,event,Paid campaign burst,medium
+2025-02-19,511,PulseTech,PulseWatch Pro,smartwatches,listing_update,Listing Refresh,Media and copy update,positive,2025-02-19,event,Media and copy update,high
+2025-02-26,511,PulseTech,PulseWatch Pro,smartwatches,stockout,Stock Availability Issue,Inventory shortage signal,negative,2025-02-26,event,Inventory shortage signal,high
+2025-03-08,511,PulseTech,PulseWatch Pro,smartwatches,promo,Limited Time Promotion,Flash discount campaign,positive,2025-03-08,event,Flash discount campaign,medium
+2025-01-21,512,ChronoBrand,ChronoLux S,smartwatches,stockout,Stock Availability Issue,Inventory shortage signal,negative,2025-01-21,event,Inventory shortage signal,high
+2025-01-27,512,ChronoBrand,ChronoLux S,smartwatches,price_hike,Price Increase,List price increase,negative,2025-01-27,event,List price increase,high
+2025-02-10,512,ChronoBrand,ChronoLux S,smartwatches,ad_burst,Major Ad Push,Paid campaign burst,positive,2025-02-10,event,Paid campaign burst,high
+2025-02-27,512,ChronoBrand,ChronoLux S,smartwatches,ad_burst,Major Ad Push,Paid campaign burst,positive,2025-02-27,event,Paid campaign burst,medium
+2025-01-06,513,SportGear,SportBand Z3,smartwatches,ad_burst,Major Ad Push,Paid campaign burst,positive,2025-01-06,event,Paid campaign burst,medium
+2025-01-24,513,SportGear,SportBand Z3,smartwatches,ad_burst,Major Ad Push,Paid campaign burst,positive,2025-01-24,event,Paid campaign burst,medium
+2025-02-24,513,SportGear,SportBand Z3,smartwatches,promo,Limited Time Promotion,Flash discount campaign,positive,2025-02-24,event,Flash discount campaign,high
+2025-03-07,513,SportGear,SportBand Z3,smartwatches,promo,Limited Time Promotion,Flash discount campaign,positive,2025-03-07,event,Flash discount campaign,medium
+2025-03-09,513,SportGear,SportBand Z3,smartwatches,stockout,Stock Availability Issue,Inventory shortage signal,negative,2025-03-09,event,Inventory shortage signal,high
+2025-02-09,514,FlexTech,FlexBand Active,smartwatches,promo,Limited Time Promotion,Flash discount campaign,positive,2025-02-09,event,Flash discount campaign,medium
+2025-02-11,514,FlexTech,FlexBand Active,smartwatches,ad_burst,Major Ad Push,Paid campaign burst,positive,2025-02-11,event,Paid campaign burst,high
+2025-02-20,514,FlexTech,FlexBand Active,smartwatches,listing_update,Listing Refresh,Media and copy update,positive,2025-02-20,event,Media and copy update,high
+2025-03-03,514,FlexTech,FlexBand Active,smartwatches,ad_burst,Major Ad Push,Paid campaign burst,positive,2025-03-03,event,Paid campaign burst,high
+2025-01-07,515,VintageGear,VintageWatch V2,smartwatches,launch_like,Variant Launch Buzz,New color/variant announcement,positive,2025-01-07,event,New color/variant announcement,high
+2025-01-09,515,VintageGear,VintageWatch V2,smartwatches,ad_burst,Major Ad Push,Paid campaign burst,positive,2025-01-09,event,Paid campaign burst,medium
+2025-01-19,515,VintageGear,VintageWatch V2,smartwatches,listing_update,Listing Refresh,Media and copy update,positive,2025-01-19,event,Media and copy update,high
+2025-03-22,515,VintageGear,VintageWatch V2,smartwatches,ad_burst,Major Ad Push,Paid campaign burst,positive,2025-03-22,event,Paid campaign burst,high
+2025-01-11,516,BlastAudio,BlastBox Pro,bluetooth_speakers,stockout,Stock Availability Issue,Inventory shortage signal,negative,2025-01-11,event,Inventory shortage signal,medium
+2025-01-19,516,BlastAudio,BlastBox Pro,bluetooth_speakers,price_hike,Price Increase,List price increase,negative,2025-01-19,event,List price increase,high
+2025-02-07,516,BlastAudio,BlastBox Pro,bluetooth_speakers,stockout,Stock Availability Issue,Inventory shortage signal,negative,2025-02-07,event,Inventory shortage signal,medium
+2025-02-11,516,BlastAudio,BlastBox Pro,bluetooth_speakers,stockout,Stock Availability Issue,Inventory shortage signal,negative,2025-02-11,event,Inventory shortage signal,medium
+2025-02-26,516,BlastAudio,BlastBox Pro,bluetooth_speakers,stockout,Stock Availability Issue,Inventory shortage signal,negative,2025-02-26,event,Inventory shortage signal,medium
+2025-03-24,516,BlastAudio,BlastBox Pro,bluetooth_speakers,launch_like,Variant Launch Buzz,New color/variant announcement,positive,2025-03-24,event,New color/variant announcement,medium
+2025-02-02,517,MiniTech,MiniSound X,bluetooth_speakers,listing_update,Listing Refresh,Media and copy update,positive,2025-02-02,event,Media and copy update,medium
+2025-02-08,517,MiniTech,MiniSound X,bluetooth_speakers,ad_burst,Major Ad Push,Paid campaign burst,positive,2025-02-08,event,Paid campaign burst,medium
+2025-03-01,517,MiniTech,MiniSound X,bluetooth_speakers,stockout,Stock Availability Issue,Inventory shortage signal,negative,2025-03-01,event,Inventory shortage signal,high
+2025-03-02,517,MiniTech,MiniSound X,bluetooth_speakers,price_hike,Price Increase,List price increase,negative,2025-03-02,event,List price increase,medium
+2025-03-15,517,MiniTech,MiniSound X,bluetooth_speakers,stockout,Stock Availability Issue,Inventory shortage signal,negative,2025-03-15,event,Inventory shortage signal,high
+2025-03-16,517,MiniTech,MiniSound X,bluetooth_speakers,launch_like,Variant Launch Buzz,New color/variant announcement,positive,2025-03-16,event,New color/variant announcement,high
+2025-01-06,518,StudioWave,StudioWave Elite,bluetooth_speakers,stockout,Stock Availability Issue,Inventory shortage signal,negative,2025-01-06,event,Inventory shortage signal,medium
+2025-02-19,518,StudioWave,StudioWave Elite,bluetooth_speakers,promo,Limited Time Promotion,Flash discount campaign,positive,2025-02-19,event,Flash discount campaign,medium
+2025-03-09,518,StudioWave,StudioWave Elite,bluetooth_speakers,price_hike,Price Increase,List price increase,negative,2025-03-09,event,List price increase,high
+2025-03-11,518,StudioWave,StudioWave Elite,bluetooth_speakers,listing_update,Listing Refresh,Media and copy update,positive,2025-03-11,event,Media and copy update,medium
+2025-03-18,518,StudioWave,StudioWave Elite,bluetooth_speakers,listing_update,Listing Refresh,Media and copy update,positive,2025-03-18,event,Media and copy update,medium
+2025-01-06,519,ChargeTech,ChargePro 25K,power_banks,ad_burst,Major Ad Push,Paid campaign burst,positive,2025-01-06,event,Paid campaign burst,high
+2025-01-17,519,ChargeTech,ChargePro 25K,power_banks,ad_burst,Major Ad Push,Paid campaign burst,positive,2025-01-17,event,Paid campaign burst,high
+2025-01-24,519,ChargeTech,ChargePro 25K,power_banks,ad_burst,Major Ad Push,Paid campaign burst,positive,2025-01-24,event,Paid campaign burst,medium
+2025-02-27,519,ChargeTech,ChargePro 25K,power_banks,ad_burst,Major Ad Push,Paid campaign burst,positive,2025-02-27,event,Paid campaign burst,medium
+2025-03-07,519,ChargeTech,ChargePro 25K,power_banks,launch_like,Variant Launch Buzz,New color/variant announcement,positive,2025-03-07,event,New color/variant announcement,medium
+2025-01-11,520,NanoPower,SlimPack Nano,power_banks,ad_burst,Major Ad Push,Paid campaign burst,positive,2025-01-11,event,Paid campaign burst,medium
+2025-01-14,520,NanoPower,SlimPack Nano,power_banks,stockout,Stock Availability Issue,Inventory shortage signal,negative,2025-01-14,event,Inventory shortage signal,high
+2025-01-30,520,NanoPower,SlimPack Nano,power_banks,ad_burst,Major Ad Push,Paid campaign burst,positive,2025-01-30,event,Paid campaign burst,high
+2025-02-15,520,NanoPower,SlimPack Nano,power_banks,promo,Limited Time Promotion,Flash discount campaign,positive,2025-02-15,event,Flash discount campaign,medium
+2025-03-07,520,NanoPower,SlimPack Nano,power_banks,ad_burst,Major Ad Push,Paid campaign burst,positive,2025-03-07,event,Paid campaign burst,medium
+2025-01-19,521,VoiceAudio,VoiceArc H9,headphones,listing_update,Listing Refresh,Media and copy update,positive,2025-01-19,event,Media and copy update,medium
+2025-02-01,521,VoiceAudio,VoiceArc H9,headphones,ad_burst,Major Ad Push,Paid campaign burst,positive,2025-02-01,event,Paid campaign burst,medium
+2025-02-05,521,VoiceAudio,VoiceArc H9,headphones,launch_like,Variant Launch Buzz,New color/variant announcement,positive,2025-02-05,event,New color/variant announcement,high
+2025-02-28,521,VoiceAudio,VoiceArc H9,headphones,ad_burst,Major Ad Push,Paid campaign burst,positive,2025-02-28,event,Paid campaign burst,medium
+2025-01-05,522,BassAudio,BassElite Pro,headphones,stockout,Stock Availability Issue,Inventory shortage signal,negative,2025-01-05,event,Inventory shortage signal,high
+2025-01-24,522,BassAudio,BassElite Pro,headphones,listing_update,Listing Refresh,Media and copy update,positive,2025-01-24,event,Media and copy update,medium
+2025-02-04,522,BassAudio,BassElite Pro,headphones,promo,Limited Time Promotion,Flash discount campaign,positive,2025-02-04,event,Flash discount campaign,medium
+2025-02-19,522,BassAudio,BassElite Pro,headphones,launch_like,Variant Launch Buzz,New color/variant announcement,positive,2025-02-19,event,New color/variant announcement,high
+2025-01-17,523,EasyGear,EasyWear Studio,headphones,launch_like,Variant Launch Buzz,New color/variant announcement,positive,2025-01-17,event,New color/variant announcement,medium
+2025-01-18,523,EasyGear,EasyWear Studio,headphones,promo,Limited Time Promotion,Flash discount campaign,positive,2025-01-18,event,Flash discount campaign,medium
+2025-02-05,523,EasyGear,EasyWear Studio,headphones,price_hike,Price Increase,List price increase,negative,2025-02-05,event,List price increase,medium
+2025-02-19,523,EasyGear,EasyWear Studio,headphones,promo,Limited Time Promotion,Flash discount campaign,positive,2025-02-19,event,Flash discount campaign,medium
+2025-02-28,523,EasyGear,EasyWear Studio,headphones,launch_like,Variant Launch Buzz,New color/variant announcement,positive,2025-02-28,event,New color/variant announcement,medium
+2025-01-17,524,SlateTab,SlateMax 11,tablets,price_hike,Price Increase,List price increase,negative,2025-01-17,event,List price increase,medium
+2025-01-20,524,SlateTab,SlateMax 11,tablets,price_hike,Price Increase,List price increase,negative,2025-01-20,event,List price increase,high
+2025-02-17,524,SlateTab,SlateMax 11,tablets,stockout,Stock Availability Issue,Inventory shortage signal,negative,2025-02-17,event,Inventory shortage signal,high
+2025-03-07,524,SlateTab,SlateMax 11,tablets,launch_like,Variant Launch Buzz,New color/variant announcement,positive,2025-03-07,event,New color/variant announcement,medium
+2025-03-18,524,SlateTab,SlateMax 11,tablets,stockout,Stock Availability Issue,Inventory shortage signal,negative,2025-03-18,event,Inventory shortage signal,medium
+2025-03-25,524,SlateTab,SlateMax 11,tablets,price_hike,Price Increase,List price increase,negative,2025-03-25,event,List price increase,high
+2025-01-11,525,EduGear,KidsPad Learn,tablets,launch_like,Variant Launch Buzz,New color/variant announcement,positive,2025-01-11,event,New color/variant announcement,medium
+2025-01-24,525,EduGear,KidsPad Learn,tablets,launch_like,Variant Launch Buzz,New color/variant announcement,positive,2025-01-24,event,New color/variant announcement,medium
+2025-02-03,525,EduGear,KidsPad Learn,tablets,listing_update,Listing Refresh,Media and copy update,positive,2025-02-03,event,Media and copy update,high
+2025-02-05,525,EduGear,KidsPad Learn,tablets,promo,Limited Time Promotion,Flash discount campaign,positive,2025-02-05,event,Flash discount campaign,high
+2025-03-13,525,EduGear,KidsPad Learn,tablets,listing_update,Listing Refresh,Media and copy update,positive,2025-03-13,event,Media and copy update,medium
+2025-03-20,525,EduGear,KidsPad Learn,tablets,price_hike,Price Increase,List price increase,negative,2025-03-20,event,List price increase,high
+2025-01-07,601,ClearAudio,ClearSound H7,headphones,promo,Limited Time Promotion,Flash discount campaign,positive,2025-01-07,event,Flash discount campaign,medium
+2025-01-12,601,ClearAudio,ClearSound H7,headphones,stockout,Stock Availability Issue,Inventory shortage signal,negative,2025-01-12,event,Inventory shortage signal,medium
+2025-01-28,601,ClearAudio,ClearSound H7,headphones,ad_burst,Major Ad Push,Paid campaign burst,positive,2025-01-28,event,Paid campaign burst,medium
+2025-02-02,601,ClearAudio,ClearSound H7,headphones,listing_update,Listing Refresh,Media and copy update,positive,2025-02-02,event,Media and copy update,high
+2025-02-10,601,ClearAudio,ClearSound H7,headphones,stockout,Stock Availability Issue,Inventory shortage signal,negative,2025-02-10,event,Inventory shortage signal,high
+2025-03-10,601,ClearAudio,ClearSound H7,headphones,launch_like,Variant Launch Buzz,New color/variant announcement,positive,2025-03-10,event,New color/variant announcement,medium
+2025-01-27,602,BassAudio,BassKing Pro,headphones,promo,Limited Time Promotion,Flash discount campaign,positive,2025-01-27,event,Flash discount campaign,high
+2025-02-05,602,BassAudio,BassKing Pro,headphones,listing_update,Listing Refresh,Media and copy update,positive,2025-02-05,event,Media and copy update,medium
+2025-03-01,602,BassAudio,BassKing Pro,headphones,listing_update,Listing Refresh,Media and copy update,positive,2025-03-01,event,Media and copy update,medium
+2025-03-03,602,BassAudio,BassKing Pro,headphones,ad_burst,Major Ad Push,Paid campaign burst,positive,2025-03-03,event,Paid campaign burst,high
+2025-01-26,603,ComfortGear,ComfortWear X,headphones,promo,Limited Time Promotion,Flash discount campaign,positive,2025-01-26,event,Flash discount campaign,medium
+2025-02-01,603,ComfortGear,ComfortWear X,headphones,listing_update,Listing Refresh,Media and copy update,positive,2025-02-01,event,Media and copy update,medium
+2025-02-06,603,ComfortGear,ComfortWear X,headphones,launch_like,Variant Launch Buzz,New color/variant announcement,positive,2025-02-06,event,New color/variant announcement,medium
+2025-02-22,603,ComfortGear,ComfortWear X,headphones,promo,Limited Time Promotion,Flash discount campaign,positive,2025-02-22,event,Flash discount campaign,high
+2025-03-15,603,ComfortGear,ComfortWear X,headphones,promo,Limited Time Promotion,Flash discount campaign,positive,2025-03-15,event,Flash discount campaign,high
+2025-03-27,603,ComfortGear,ComfortWear X,headphones,launch_like,Variant Launch Buzz,New color/variant announcement,positive,2025-03-27,event,New color/variant announcement,medium
+2025-01-07,604,TurboWave,TurboEar Boost,earbuds,stockout,Stock Availability Issue,Inventory shortage signal,negative,2025-01-07,event,Inventory shortage signal,medium
+2025-01-17,604,TurboWave,TurboEar Boost,earbuds,price_hike,Price Increase,List price increase,negative,2025-01-17,event,List price increase,high
+2025-02-14,604,TurboWave,TurboEar Boost,earbuds,price_hike,Price Increase,List price increase,negative,2025-02-14,event,List price increase,medium
+2025-02-27,604,TurboWave,TurboEar Boost,earbuds,listing_update,Listing Refresh,Media and copy update,positive,2025-02-27,event,Media and copy update,medium
+2025-01-05,605,VintageSound,VintageAir Lite,earbuds,launch_like,Variant Launch Buzz,New color/variant announcement,positive,2025-01-05,event,New color/variant announcement,high
+2025-01-08,605,VintageSound,VintageAir Lite,earbuds,stockout,Stock Availability Issue,Inventory shortage signal,negative,2025-01-08,event,Inventory shortage signal,medium
+2025-01-26,605,VintageSound,VintageAir Lite,earbuds,promo,Limited Time Promotion,Flash discount campaign,positive,2025-01-26,event,Flash discount campaign,medium
+2025-02-23,605,VintageSound,VintageAir Lite,earbuds,promo,Limited Time Promotion,Flash discount campaign,positive,2025-02-23,event,Flash discount campaign,medium
+2025-01-18,606,ApexTech,ApexPhone Ultra,smartphones,stockout,Stock Availability Issue,Inventory shortage signal,negative,2025-01-18,event,Inventory shortage signal,high
+2025-03-06,606,ApexTech,ApexPhone Ultra,smartphones,listing_update,Listing Refresh,Media and copy update,positive,2025-03-06,event,Media and copy update,medium
+2025-03-08,606,ApexTech,ApexPhone Ultra,smartphones,ad_burst,Major Ad Push,Paid campaign burst,positive,2025-03-08,event,Paid campaign burst,high
+2025-03-12,606,ApexTech,ApexPhone Ultra,smartphones,promo,Limited Time Promotion,Flash discount campaign,positive,2025-03-12,event,Flash discount campaign,high
+2025-03-23,606,ApexTech,ApexPhone Ultra,smartphones,ad_burst,Major Ad Push,Paid campaign burst,positive,2025-03-23,event,Paid campaign burst,medium
+2025-01-14,607,BudgetMobile,BudgetPhone X3,smartphones,stockout,Stock Availability Issue,Inventory shortage signal,negative,2025-01-14,event,Inventory shortage signal,medium
+2025-01-21,607,BudgetMobile,BudgetPhone X3,smartphones,promo,Limited Time Promotion,Flash discount campaign,positive,2025-01-21,event,Flash discount campaign,medium
+2025-02-24,607,BudgetMobile,BudgetPhone X3,smartphones,price_hike,Price Increase,List price increase,negative,2025-02-24,event,List price increase,high
+2025-03-26,607,BudgetMobile,BudgetPhone X3,smartphones,stockout,Stock Availability Issue,Inventory shortage signal,negative,2025-03-26,event,Inventory shortage signal,medium
+2025-01-26,608,CoreMobile,CorePhone M7,smartphones,launch_like,Variant Launch Buzz,New color/variant announcement,positive,2025-01-26,event,New color/variant announcement,medium
+2025-02-17,608,CoreMobile,CorePhone M7,smartphones,promo,Limited Time Promotion,Flash discount campaign,positive,2025-02-17,event,Flash discount campaign,medium
+2025-02-25,608,CoreMobile,CorePhone M7,smartphones,price_hike,Price Increase,List price increase,negative,2025-02-25,event,List price increase,high
+2025-03-02,608,CoreMobile,CorePhone M7,smartphones,launch_like,Variant Launch Buzz,New color/variant announcement,positive,2025-03-02,event,New color/variant announcement,medium
+2025-03-24,608,CoreMobile,CorePhone M7,smartphones,listing_update,Listing Refresh,Media and copy update,positive,2025-03-24,event,Media and copy update,medium
+2025-01-25,609,NobleCo,NoblePro 15,smartphones,launch_like,Variant Launch Buzz,New color/variant announcement,positive,2025-01-25,event,New color/variant announcement,high
+2025-01-27,609,NobleCo,NoblePro 15,smartphones,promo,Limited Time Promotion,Flash discount campaign,positive,2025-01-27,event,Flash discount campaign,medium
+2025-02-22,609,NobleCo,NoblePro 15,smartphones,launch_like,Variant Launch Buzz,New color/variant announcement,positive,2025-02-22,event,New color/variant announcement,high
+2025-03-26,609,NobleCo,NoblePro 15,smartphones,ad_burst,Major Ad Push,Paid campaign burst,positive,2025-03-26,event,Paid campaign burst,high
+2025-01-13,610,VivaTech,VivaPhone S4,smartphones,stockout,Stock Availability Issue,Inventory shortage signal,negative,2025-01-13,event,Inventory shortage signal,medium
+2025-01-17,610,VivaTech,VivaPhone S4,smartphones,stockout,Stock Availability Issue,Inventory shortage signal,negative,2025-01-17,event,Inventory shortage signal,medium
+2025-01-24,610,VivaTech,VivaPhone S4,smartphones,ad_burst,Major Ad Push,Paid campaign burst,positive,2025-01-24,event,Paid campaign burst,medium
+2025-02-04,610,VivaTech,VivaPhone S4,smartphones,listing_update,Listing Refresh,Media and copy update,positive,2025-02-04,event,Media and copy update,medium
+2025-02-10,610,VivaTech,VivaPhone S4,smartphones,price_hike,Price Increase,List price increase,negative,2025-02-10,event,List price increase,medium
+2025-02-24,610,VivaTech,VivaPhone S4,smartphones,promo,Limited Time Promotion,Flash discount campaign,positive,2025-02-24,event,Flash discount campaign,high
+2025-02-11,611,FitCore,FitCore Watch,smartwatches,ad_burst,Major Ad Push,Paid campaign burst,positive,2025-02-11,event,Paid campaign burst,high
+2025-02-23,611,FitCore,FitCore Watch,smartwatches,price_hike,Price Increase,List price increase,negative,2025-02-23,event,List price increase,high
+2025-03-17,611,FitCore,FitCore Watch,smartwatches,listing_update,Listing Refresh,Media and copy update,positive,2025-03-17,event,Media and copy update,high
+2025-03-19,611,FitCore,FitCore Watch,smartwatches,promo,Limited Time Promotion,Flash discount campaign,positive,2025-03-19,event,Flash discount campaign,medium
+2025-01-20,612,EliteBrand,EliteWatch X,smartwatches,stockout,Stock Availability Issue,Inventory shortage signal,negative,2025-01-20,event,Inventory shortage signal,medium
+2025-02-15,612,EliteBrand,EliteWatch X,smartwatches,price_hike,Price Increase,List price increase,negative,2025-02-15,event,List price increase,high
+2025-02-28,612,EliteBrand,EliteWatch X,smartwatches,listing_update,Listing Refresh,Media and copy update,positive,2025-02-28,event,Media and copy update,medium
+2025-03-05,612,EliteBrand,EliteWatch X,smartwatches,ad_burst,Major Ad Push,Paid campaign burst,positive,2025-03-05,event,Paid campaign burst,medium
+2025-03-17,612,EliteBrand,EliteWatch X,smartwatches,ad_burst,Major Ad Push,Paid campaign burst,positive,2025-03-17,event,Paid campaign burst,medium
+2025-03-26,612,EliteBrand,EliteWatch X,smartwatches,listing_update,Listing Refresh,Media and copy update,positive,2025-03-26,event,Media and copy update,medium
+2025-01-22,613,TrackGear,TrackBand Go,smartwatches,listing_update,Listing Refresh,Media and copy update,positive,2025-01-22,event,Media and copy update,high
+2025-02-01,613,TrackGear,TrackBand Go,smartwatches,price_hike,Price Increase,List price increase,negative,2025-02-01,event,List price increase,high
+2025-02-09,613,TrackGear,TrackBand Go,smartwatches,launch_like,Variant Launch Buzz,New color/variant announcement,positive,2025-02-09,event,New color/variant announcement,medium
+2025-03-14,613,TrackGear,TrackBand Go,smartwatches,listing_update,Listing Refresh,Media and copy update,positive,2025-03-14,event,Media and copy update,high
+2025-01-31,614,ActiveGear,ActiveWatch R1,smartwatches,listing_update,Listing Refresh,Media and copy update,positive,2025-01-31,event,Media and copy update,medium
+2025-02-09,614,ActiveGear,ActiveWatch R1,smartwatches,promo,Limited Time Promotion,Flash discount campaign,positive,2025-02-09,event,Flash discount campaign,medium
+2025-02-20,614,ActiveGear,ActiveWatch R1,smartwatches,ad_burst,Major Ad Push,Paid campaign burst,positive,2025-02-20,event,Paid campaign burst,medium
+2025-03-21,614,ActiveGear,ActiveWatch R1,smartwatches,listing_update,Listing Refresh,Media and copy update,positive,2025-03-21,event,Media and copy update,medium
+2025-01-27,615,OldGear,OldStyle Band,smartwatches,launch_like,Variant Launch Buzz,New color/variant announcement,positive,2025-01-27,event,New color/variant announcement,high
+2025-02-01,615,OldGear,OldStyle Band,smartwatches,price_hike,Price Increase,List price increase,negative,2025-02-01,event,List price increase,high
+2025-02-28,615,OldGear,OldStyle Band,smartwatches,listing_update,Listing Refresh,Media and copy update,positive,2025-02-28,event,Media and copy update,high
+2025-03-11,615,OldGear,OldStyle Band,smartwatches,launch_like,Variant Launch Buzz,New color/variant announcement,positive,2025-03-11,event,New color/variant announcement,high
+2025-01-08,616,WaveAudio,SoundBox Wave,bluetooth_speakers,price_hike,Price Increase,List price increase,negative,2025-01-08,event,List price increase,medium
+2025-01-09,616,WaveAudio,SoundBox Wave,bluetooth_speakers,promo,Limited Time Promotion,Flash discount campaign,positive,2025-01-09,event,Flash discount campaign,medium
+2025-02-19,616,WaveAudio,SoundBox Wave,bluetooth_speakers,price_hike,Price Increase,List price increase,negative,2025-02-19,event,List price increase,medium
+2025-03-08,616,WaveAudio,SoundBox Wave,bluetooth_speakers,stockout,Stock Availability Issue,Inventory shortage signal,negative,2025-03-08,event,Inventory shortage signal,medium
+2025-03-18,616,WaveAudio,SoundBox Wave,bluetooth_speakers,listing_update,Listing Refresh,Media and copy update,positive,2025-03-18,event,Media and copy update,high
+2025-03-23,616,WaveAudio,SoundBox Wave,bluetooth_speakers,promo,Limited Time Promotion,Flash discount campaign,positive,2025-03-23,event,Flash discount campaign,high
+2025-01-07,617,PocketTech,PocketBoom S2,bluetooth_speakers,stockout,Stock Availability Issue,Inventory shortage signal,negative,2025-01-07,event,Inventory shortage signal,high
+2025-01-15,617,PocketTech,PocketBoom S2,bluetooth_speakers,listing_update,Listing Refresh,Media and copy update,positive,2025-01-15,event,Media and copy update,high
+2025-01-16,617,PocketTech,PocketBoom S2,bluetooth_speakers,price_hike,Price Increase,List price increase,negative,2025-01-16,event,List price increase,high
+2025-02-09,617,PocketTech,PocketBoom S2,bluetooth_speakers,ad_burst,Major Ad Push,Paid campaign burst,positive,2025-02-09,event,Paid campaign burst,medium
+2025-03-25,617,PocketTech,PocketBoom S2,bluetooth_speakers,promo,Limited Time Promotion,Flash discount campaign,positive,2025-03-25,event,Flash discount campaign,high
+2025-03-26,617,PocketTech,PocketBoom S2,bluetooth_speakers,promo,Limited Time Promotion,Flash discount campaign,positive,2025-03-26,event,Flash discount campaign,medium
+2025-01-14,618,CrystalAudio,CrystalSound Pro,bluetooth_speakers,launch_like,Variant Launch Buzz,New color/variant announcement,positive,2025-01-14,event,New color/variant announcement,high
+2025-01-22,618,CrystalAudio,CrystalSound Pro,bluetooth_speakers,listing_update,Listing Refresh,Media and copy update,positive,2025-01-22,event,Media and copy update,medium
+2025-01-28,618,CrystalAudio,CrystalSound Pro,bluetooth_speakers,promo,Limited Time Promotion,Flash discount campaign,positive,2025-01-28,event,Flash discount campaign,medium
+2025-03-01,618,CrystalAudio,CrystalSound Pro,bluetooth_speakers,ad_burst,Major Ad Push,Paid campaign burst,positive,2025-03-01,event,Paid campaign burst,high
+2025-01-16,619,TurboPower,TurboCharge 30K,power_banks,price_hike,Price Increase,List price increase,negative,2025-01-16,event,List price increase,medium
+2025-01-19,619,TurboPower,TurboCharge 30K,power_banks,stockout,Stock Availability Issue,Inventory shortage signal,negative,2025-01-19,event,Inventory shortage signal,medium
+2025-02-02,619,TurboPower,TurboCharge 30K,power_banks,listing_update,Listing Refresh,Media and copy update,positive,2025-02-02,event,Media and copy update,high
+2025-02-16,619,TurboPower,TurboCharge 30K,power_banks,launch_like,Variant Launch Buzz,New color/variant announcement,positive,2025-02-16,event,New color/variant announcement,high
+2025-03-05,619,TurboPower,TurboCharge 30K,power_banks,price_hike,Price Increase,List price increase,negative,2025-03-05,event,List price increase,high
+2025-03-27,619,TurboPower,TurboCharge 30K,power_banks,listing_update,Listing Refresh,Media and copy update,positive,2025-03-27,event,Media and copy update,high
+2025-01-06,620,CellPower,PocketCell Mini,power_banks,listing_update,Listing Refresh,Media and copy update,positive,2025-01-06,event,Media and copy update,high
+2025-01-13,620,CellPower,PocketCell Mini,power_banks,ad_burst,Major Ad Push,Paid campaign burst,positive,2025-01-13,event,Paid campaign burst,medium
+2025-02-03,620,CellPower,PocketCell Mini,power_banks,promo,Limited Time Promotion,Flash discount campaign,positive,2025-02-03,event,Flash discount campaign,medium
+2025-02-15,620,CellPower,PocketCell Mini,power_banks,listing_update,Listing Refresh,Media and copy update,positive,2025-02-15,event,Media and copy update,medium
+2025-03-01,620,CellPower,PocketCell Mini,power_banks,launch_like,Variant Launch Buzz,New color/variant announcement,positive,2025-03-01,event,New color/variant announcement,medium
+2025-03-22,620,CellPower,PocketCell Mini,power_banks,ad_burst,Major Ad Push,Paid campaign burst,positive,2025-03-22,event,Paid campaign burst,medium
+2025-01-30,621,WaveGear,WavePhone H10,headphones,listing_update,Listing Refresh,Media and copy update,positive,2025-01-30,event,Media and copy update,high
+2025-02-06,621,WaveGear,WavePhone H10,headphones,listing_update,Listing Refresh,Media and copy update,positive,2025-02-06,event,Media and copy update,medium
+2025-02-14,621,WaveGear,WavePhone H10,headphones,price_hike,Price Increase,List price increase,negative,2025-02-14,event,List price increase,medium
+2025-02-19,621,WaveGear,WavePhone H10,headphones,price_hike,Price Increase,List price increase,negative,2025-02-19,event,List price increase,medium
+2025-03-08,621,WaveGear,WavePhone H10,headphones,stockout,Stock Availability Issue,Inventory shortage signal,negative,2025-03-08,event,Inventory shortage signal,medium
+2025-01-12,622,DeepAudio,DeepBass Ultra,headphones,ad_burst,Major Ad Push,Paid campaign burst,positive,2025-01-12,event,Paid campaign burst,high
+2025-01-21,622,DeepAudio,DeepBass Ultra,headphones,launch_like,Variant Launch Buzz,New color/variant announcement,positive,2025-01-21,event,New color/variant announcement,high
+2025-01-28,622,DeepAudio,DeepBass Ultra,headphones,ad_burst,Major Ad Push,Paid campaign burst,positive,2025-01-28,event,Paid campaign burst,medium
+2025-02-04,622,DeepAudio,DeepBass Ultra,headphones,stockout,Stock Availability Issue,Inventory shortage signal,negative,2025-02-04,event,Inventory shortage signal,high
+2025-02-20,622,DeepAudio,DeepBass Ultra,headphones,stockout,Stock Availability Issue,Inventory shortage signal,negative,2025-02-20,event,Inventory shortage signal,high
+2025-03-05,622,DeepAudio,DeepBass Ultra,headphones,promo,Limited Time Promotion,Flash discount campaign,positive,2025-03-05,event,Flash discount campaign,high
+2025-01-11,623,CasualGear,CasualFit H3,headphones,listing_update,Listing Refresh,Media and copy update,positive,2025-01-11,event,Media and copy update,medium
+2025-01-23,623,CasualGear,CasualFit H3,headphones,launch_like,Variant Launch Buzz,New color/variant announcement,positive,2025-01-23,event,New color/variant announcement,high
+2025-01-27,623,CasualGear,CasualFit H3,headphones,stockout,Stock Availability Issue,Inventory shortage signal,negative,2025-01-27,event,Inventory shortage signal,medium
+2025-03-03,623,CasualGear,CasualFit H3,headphones,promo,Limited Time Promotion,Flash discount campaign,positive,2025-03-03,event,Flash discount campaign,medium
+2025-03-04,623,CasualGear,CasualFit H3,headphones,listing_update,Listing Refresh,Media and copy update,positive,2025-03-04,event,Media and copy update,high
+2025-01-07,624,TabSlate,TabSlate 12,tablets,launch_like,Variant Launch Buzz,New color/variant announcement,positive,2025-01-07,event,New color/variant announcement,medium
+2025-01-24,624,TabSlate,TabSlate 12,tablets,listing_update,Listing Refresh,Media and copy update,positive,2025-01-24,event,Media and copy update,high
+2025-01-26,624,TabSlate,TabSlate 12,tablets,listing_update,Listing Refresh,Media and copy update,positive,2025-01-26,event,Media and copy update,high
+2025-03-22,624,TabSlate,TabSlate 12,tablets,listing_update,Listing Refresh,Media and copy update,positive,2025-03-22,event,Media and copy update,medium
+2025-02-21,625,JuniorTech,JuniorPad Pro,tablets,ad_burst,Major Ad Push,Paid campaign burst,positive,2025-02-21,event,Paid campaign burst,medium
+2025-02-24,625,JuniorTech,JuniorPad Pro,tablets,listing_update,Listing Refresh,Media and copy update,positive,2025-02-24,event,Media and copy update,high
+2025-03-14,625,JuniorTech,JuniorPad Pro,tablets,ad_burst,Major Ad Push,Paid campaign burst,positive,2025-03-14,event,Paid campaign burst,high
+2025-03-17,625,JuniorTech,JuniorPad Pro,tablets,stockout,Stock Availability Issue,Inventory shortage signal,negative,2025-03-17,event,Inventory shortage signal,medium
+2025-01-14,701,TabTech,TabPro 10,tablets,listing_update,Listing Refresh,Media and copy update,positive,2025-01-14,event,Media and copy update,medium
+2025-01-22,701,TabTech,TabPro 10,tablets,launch_like,Variant Launch Buzz,New color/variant announcement,positive,2025-01-22,event,New color/variant announcement,high
+2025-01-24,701,TabTech,TabPro 10,tablets,price_hike,Price Increase,List price increase,negative,2025-01-24,event,List price increase,high
+2025-02-06,701,TabTech,TabPro 10,tablets,listing_update,Listing Refresh,Media and copy update,positive,2025-02-06,event,Media and copy update,medium
+2025-03-09,701,TabTech,TabPro 10,tablets,launch_like,Variant Launch Buzz,New color/variant announcement,positive,2025-03-09,event,New color/variant announcement,medium
+2025-01-23,702,EduTech,LearningPad Kids,tablets,promo,Limited Time Promotion,Flash discount campaign,positive,2025-01-23,event,Flash discount campaign,medium
+2025-01-30,702,EduTech,LearningPad Kids,tablets,price_hike,Price Increase,List price increase,negative,2025-01-30,event,List price increase,medium
+2025-02-21,702,EduTech,LearningPad Kids,tablets,price_hike,Price Increase,List price increase,negative,2025-02-21,event,List price increase,high
+2025-03-02,702,EduTech,LearningPad Kids,tablets,price_hike,Price Increase,List price increase,negative,2025-03-02,event,List price increase,high
+2025-03-18,702,EduTech,LearningPad Kids,tablets,stockout,Stock Availability Issue,Inventory shortage signal,negative,2025-03-18,event,Inventory shortage signal,high
+2025-04-03,101,SoundWave,SoundPods X3,earbuds,ad_campaign,Summer Audio Flash Sale,3-day paid push around earbuds weekend deal,positive,2025-04-03,event,"Paid ads lift visibility first, then search converts to demand",high
+2025-04-12,101,SoundWave,SoundPods X3,earbuds,stock_issue,Warehouse Fulfillment Delay,Popular color variant sees short stock constraint,negative,2025-04-12,event,Search stays warm but conversions soften due to availability,high
+2025-04-18,101,SoundWave,SoundPods X3,earbuds,review_spike,Creator Review Wave,Tech creators publish positive hands-on reviews,positive,2025-04-18,event,Sentiment improvement supports conversion recovery,medium
+2025-04-26,101,SoundWave,SoundPods X3,earbuds,price_drop,Month-End Earbuds Deal,Limited markdown ahead of payday weekend,positive,2025-04-26,event,Lower price improves click-through and demand,high
+2025-04-07,201,NovaTech,NovaPhone S22,smartphones,review_spike,Camera Review Uplift,Strong user reviews on camera quality trend upward,positive,2025-04-07,event,Sentiment strengthens and lifts consideration,medium
+2025-04-14,201,NovaTech,NovaPhone S22,smartphones,ad_campaign,Exchange Bonus Campaign,Performance ads around phone exchange offer,positive,2025-04-14,event,Ad intensity drives search and delayed demand lift,high
+2025-04-22,201,NovaTech,NovaPhone S22,smartphones,stock_issue,Color Variant Backorder,Popular storage/color combo slips into backorder,negative,2025-04-22,event,Demand softens despite decent awareness,high
+2025-04-28,201,NovaTech,NovaPhone S22,smartphones,price_drop,Festive EMI Promo,Small effective price cut via EMI cashback,positive,2025-04-28,event,Price-led pull revives end-month conversions,high
+2025-04-04,301,FitTech,FitPulse Watch,smartwatches,review_spike,Fitness Challenge Buzz,Workout challenge users post strong watch feedback,positive,2025-04-04,event,Sentiment and search both improve gradually,medium
+2025-04-11,301,FitTech,FitPulse Watch,smartwatches,price_drop,Weekend Strap Bundle Offer,Bundle pricing improves perceived value,positive,2025-04-11,event,Demand reacts faster than sentiment,medium
+2025-04-20,301,FitTech,FitPulse Watch,smartwatches,ad_campaign,Summer Fitness Push,Paid ads tie watch to fitness tracking theme,positive,2025-04-20,event,Search acceleration feeds next-day demand,high
+2025-04-27,301,FitTech,FitPulse Watch,smartwatches,stock_issue,Accessory Restock Delay,Strap accessory shortage slows conversion,negative,2025-04-27,event,Demand eases while search stays fair,medium
+2025-04-02,401,BoomAudio,BoomBox Mini,bluetooth_speakers,stock_issue,Portable Speaker Low Stock,Distribution gap limits near-term inventory,negative,2025-04-02,event,Search holds but sell-through weakens,high
+2025-04-09,401,BoomAudio,BoomBox Mini,bluetooth_speakers,ad_campaign,Weekend Party Audio Ads,Campaign promotes compact speaker for gatherings,positive,2025-04-09,event,Ad-driven search lift improves demand with slight lag,medium
+2025-04-17,401,BoomAudio,BoomBox Mini,bluetooth_speakers,review_spike,Audio Quality Mentions Rise,Positive review burst on bass performance,positive,2025-04-17,event,Sentiment repair helps demand recover,medium
+2025-04-25,401,BoomAudio,BoomBox Mini,bluetooth_speakers,price_drop,End-of-Month Speaker Discount,Temporary markdown to clear channel inventory,positive,2025-04-25,event,Price cut materially lifts conversion,high
+2025-04-06,501,PowerTech,PowerMax 20K,power_banks,price_drop,Travel Season Promo,Power bank price trimmed before travel demand week,positive,2025-04-06,event,Search and demand improve on better value,high
+2025-04-13,501,PowerTech,PowerMax 20K,power_banks,ad_campaign,Backup Power Awareness Ads,Ads target commuters and travelers,positive,2025-04-13,event,Awareness boost lifts search first then demand,medium
+2025-04-19,501,PowerTech,PowerMax 20K,power_banks,stock_issue,Cable Pack Shortage,Bundle accessory shortage trims conversion rate,negative,2025-04-19,event,Demand weakens despite healthy traffic,medium
+2025-04-24,501,PowerTech,PowerMax 20K,power_banks,review_spike,Battery Life Review Lift,Recent reviews praise fast charging consistency,positive,2025-04-24,event,Sentiment improvement supports rebound,medium
+2025-04-29,501,PowerTech,PowerMax 20K,power_banks,ad_campaign,Long Weekend Utility Push,Short burst campaign ahead of long weekend travel,positive,2025-04-29,event,Search and ad pressure feed late-month demand,medium
+2025-04-05,524,SlateTab,SlateMax 11,tablets,ad_campaign,Study & Stream Tablet Push,Ads focus on study plus entertainment use cases,positive,2025-04-05,event,Visibility gains show up in search and later demand,high
+2025-04-12,524,SlateTab,SlateMax 11,tablets,stock_issue,High-Storage Variant Tightness,Higher storage variant sees limited availability,negative,2025-04-12,event,Demand gets capped even as awareness stays steady,high
+2025-04-18,524,SlateTab,SlateMax 11,tablets,price_drop,Tablet Weekend Cashback,Channel cashback lowers effective selling price,positive,2025-04-18,event,Demand reacts strongly to lower effective price,high
+2025-04-23,524,SlateTab,SlateMax 11,tablets,review_spike,Display Praise Trend,Review burst praises screen quality and battery,positive,2025-04-23,event,Sentiment lift improves conversion quality,medium
+2025-04-29,524,SlateTab,SlateMax 11,tablets,ad_campaign,Exam Prep Tablet Ads,Short campaign timed to student purchase intent,positive,2025-04-29,event,Search gets a fresh late-month bump,medium
+2025-04-08,601,ClearAudio,ClearSound H7,headphones,ad_campaign,Immersive Audio Campaign,Ads highlight ANC and commute comfort,positive,2025-04-08,event,Ad burst increases search and assisted demand,medium
+2025-04-15,601,ClearAudio,ClearSound H7,headphones,review_spike,ANC Review Momentum,Positive review cycle around noise cancellation,positive,2025-04-15,event,Sentiment strengthens mid-month consideration,medium
+2025-04-21,601,ClearAudio,ClearSound H7,headphones,price_drop,Headphone Cashback Window,Short cashback window improves value perception,positive,2025-04-21,event,Demand rises through stronger conversion,high
+2025-04-27,601,ClearAudio,ClearSound H7,headphones,stock_issue,Retail Inventory Tightness,Offline and online stock turns tighter,negative,2025-04-27,event,Demand slips despite good awareness,medium

@@ -1,0 +1,22 @@
+{
+  "model_name": "model_demand.json",
+  "target": "target",
+  "original_target_source": "next_day_demand_index_from_shifted_demand_index",
+  "feature_count": 84,
+  "train_rows": 4970,
+  "test_rows": 1190,
+  "metrics": {
+    "model": {
+      "mae": 2.233962283383818,
+      "rmse": 2.9636952076428504,
+      "r2": 0.875675567312691
+    },
+    "naive_baseline": {
+      "mae": 2.641609906066115,
+      "rmse": 3.796511172096967,
+      "r2": 0.79598656187839
+    }
+  },
+  "variant": "removed_health_index",
+  "model_family": "xgboost_demand"
+}

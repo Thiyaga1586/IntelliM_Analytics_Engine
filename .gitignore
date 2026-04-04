@@ -1,0 +1,7 @@
+.venv/
+__pycache__/
+*.pyc
+*.pkl
+data/runtime.db
+data/runtime.db-shm
+data/runtime.db-wal
