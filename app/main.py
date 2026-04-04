@@ -22,6 +22,27 @@ def startup_event() -> None:
     if active_version:
         state_manager.set_state("active_model_version", active_version)
 
+@app.get("/")
+def root() -> dict:
+    return {
+        "status": "ok",
+        "message": "IntelliM Analytics Engine is running",
+        "health": "/health",
+        "docs": "/docs",
+        "endpoints": {
+            "filters": "/api/filters",
+            "master_data": "/api/master-data",
+            "daily_summary": "/api/daily-summary",
+            "forecast": "/api/forecast",
+            "events": "/api/events",
+            "alerts": "/api/alerts",
+            "autonomous_status": "/api/autonomous/status",
+            "realtime_drift": "/api/realtime/drift",
+            "explain": "/api/explain?entity_id=101",
+            "run_cycle": "/engine/run-cycle",
+        },
+    }
+
 
 @app.get("/health")
 def health() -> dict:
