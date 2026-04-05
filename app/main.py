@@ -5,13 +5,14 @@ from app.config import settings
 from app.event_attributor import EventAttributor
 from app.state_manager import StateManager
 from app.utils import ensure_directories, read_csv_if_exists
+from app.dashboard_bundle import DashboardBundleBuilder
 
 app = FastAPI(title="Analytics Engine MVP", version="1.1.0")
 
 engine = AutonomousEngine()
 state_manager = engine.state_manager
 event_attributor = EventAttributor()
-
+dashboard_builder = DashboardBundleBuilder()
 
 @app.on_event("startup")
 def startup_event() -> None:
@@ -295,3 +296,11 @@ def api_regime_shifts(limit: int = Query(default=500, ge=1, le=5000)) -> dict:
         return {"rows": [], "count": 0}
     df = df.tail(limit)
     return {"rows": df.to_dict(orient="records"), "count": int(len(df))}
+
+@app.get("/api/dashboard-bundle")
+def api_dashboard_bundle(
+    category: str = Query(default="all"),
+    weeks: int = Query(default=12, ge=4, le=52),
+    days: int = Query(default=7, ge=3, le=30),
+) -> dict:
+    return dashboard_builder.build(category=category, weeks=weeks, days=days)
