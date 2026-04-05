@@ -2,6 +2,9 @@
 __pycache__/
 *.pyc
 *.pkl
+data/output/app_forecast.csv
+data/output/forecast_vs_actual.csv
+data/output/realtime_drift_status.csv
 data/runtime.db
 data/runtime.db-shm
 data/runtime.db-wal
